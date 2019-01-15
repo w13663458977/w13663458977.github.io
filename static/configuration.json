@@ -1,8 +1,8 @@
 {
-    "githubUsername": "GitHub-Laziji",
-    "blogTitle": "Laziji",
-    "blogDescribe": "欢迎来到辣子鸡的个人博客。",
-    "htmlTitle": "辣子鸡的博客",
+    "githubUsername": "w13663458977",
+    "blogTitle": "WangShiHao",
+    "blogDescribe": "欢迎来到王世豪的个人博客。",
+    "htmlTitle": "王世豪的博客",
     "fontColor": "#ffffff",
     "useBackgroundImage": false,
     "backgroundColorLeft": "#2690F9",
@@ -11,5 +11,5 @@
     "mini": false,
     "webSites":[
         {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
-    ]
+]
 }
